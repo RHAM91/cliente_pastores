@@ -34,4 +34,8 @@ export default {
             height: 600px;
             border: 1px solid black;
         }
+
+            .contenedor_logo{
+                
+            }
 </style>
